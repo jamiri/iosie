@@ -6,8 +6,8 @@ body{
 }
 
 div#header, div#content{
-	-moz-border-radius: 5px;
-	border-radius: 5px;
+	-moz-border-radius: 7px;
+	border-radius: 7px;
 }
 
 h3.title{
